@@ -69,7 +69,7 @@ Before beginning to tackle the project, determine how your group will communicat
 
 **What hours will you be available to communicate?**
 
-9am - 9pm
+  - 9am - 9pm
 
 **What platforms will you use to communicate (ie. Slack, phone …)?**
 
