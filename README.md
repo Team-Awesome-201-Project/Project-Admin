@@ -6,10 +6,14 @@
 Describe at least: -->
 
 **What are the key strengths of each person on the team?**
-  - Amy: Debugging, organized
-  - Matteus: persistence, researching, adaptive
-  - David L: Organizing, researching
-  - David T: Time constraints, creative, design
+  
+  - Amy: Debugging, organized
+  
+  - Matteus: persistence, researching, adaptive
+  
+  - David L: Organizing, researching
+  
+  - David T: Time constraints, creative, design
 
 **How can you best utilize these strengths in the execution of your project?**
 
@@ -17,10 +21,13 @@ Describe at least: -->
 
 **In which professional competencies do you each want to develop greater strength?**
 
-  - Amy: Interruption, pre-work/prep
-  - Matteus: Code confidence, organizing
-  - David L: Productivity, code confidence
-  - David T: Project importance/time management
+  - Amy: Interruption, pre-work/prep
+  
+  - Matteus: Code confidence, organizing
+  
+  - David L: Productivity, code confidence
+  
+  - David T: Project importance/time management
 
 **Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?**
 <!-- NOTE: Undoing, Redoing, Replacing, or otherwise steamrolling the project as an individual is considered to be unacceptable. Account for the inevitable divergence of ideas, execution tasks, and assignments of duties here. -->
